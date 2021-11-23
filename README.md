@@ -3,7 +3,7 @@
 
 ![Youtube](https://img.shields.io/static/v1?label=InamHusain&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/imhusain220?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/InamHusain?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)
 ![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://husain.ml/)
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
