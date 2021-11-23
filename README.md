@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://husain.ml/">Inam Husain!</a></h1>
 <h3 align="center">A Flutter programmer 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=InamHusain&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://husain.ml/)][twitter]
-[![GitHub followers](https://husain.ml/)][github]
-[![Linkedin: JohannesMilke](https://husain.ml/)][linkedin]
+![Youtube](https://img.shields.io/static/v1?label=InamHusain&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+![Twitter Follow](https://husain.ml/)][twitter]
+![GitHub followers](https://husain.ml/)][github]
+![Linkedin: JohannesMilke](https://husain.ml/)][linkedin]
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
 - 🌱 &ensp;I’m currently learning Flutter ❤️
