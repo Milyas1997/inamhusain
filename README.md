@@ -44,15 +44,3 @@
 ### 📺 &ensp;Latest YouTube Videos
 
 ➡️ &ensp;[More...](https://husain.ml/)
-
-
-
-[website]: https://husain.ml/
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/JohannesMilke
-[github]: https://github.com/JohannesMilke
-[instagram]: https://www.instagram.com/johannesmilke
-[facebook]: https://www.facebook.com/real.JohannesMilke
-[medium]: https://medium.com/@JohannesMilke
-[email]: mailto:hello@johannesmilke.com
