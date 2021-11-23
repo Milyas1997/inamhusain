@@ -15,7 +15,7 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://husain.ml/" />][website]
+[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" /" />][website]
 [<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://husain.ml/" />][youtube]
 [<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://husain.ml/" />][twitter]
 [<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://husain.ml/" />][linkedin]
