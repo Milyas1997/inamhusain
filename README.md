@@ -10,7 +10,7 @@
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 <!-- - 👯 &ensp;I’m looking to collaborate with other content creators -->
 <!-- - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years -->
-- ⚡ &ensp;Fun fact: I love reading & podcasts
+- ⚡ &ensp;Fun fact: I love reading & Leaning New things.
 <!-- - 📫 &ensp;How to reach me: [**Instagram**][twitter] or [**Email**][email] -->
 
 ### Connect With Me
