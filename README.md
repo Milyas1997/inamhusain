@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://husain.ml/">Inam Husain!</a></h1>
-<h3 align="center">A Flutter programmer 😜</h3>
+<h3 align="center">A Flutter Programmer 😜</h3>
 
 ![Youtube](https://img.shields.io/static/v1?label=InamHusain&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/imhusain220?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
