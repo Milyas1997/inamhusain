@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://husain.ml/">Inam Husain!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="#">Inam Husain!</a></h1>
 <h3 align="center">A Flutter Developer 😜</h3>
 
 ![Youtube](https://img.shields.io/static/v1?label=InamHusain&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)
@@ -43,4 +43,4 @@
 
 <!-- ### 📺 &ensp;Latest YouTube Videos -->
 
-➡️ &ensp;[More...](https://husain.ml/)
+
