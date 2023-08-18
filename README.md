@@ -1,17 +1,17 @@
-<h1 align="center"> Hi 👋, I'm <a href="#">Inam Husain!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="#">Muhammad Ilyas!</a></h1>
 <h3 align="center">A Flutter Developer 😜</h3>
 
-![Youtube](https://img.shields.io/static/v1?label=InamHusain&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)
+![Youtube](https://img.shields.io/static/v1?label=Muhammadilyas&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/imhusain220?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)
-![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://husain.ml/)
+![Linkedin: JohannesMilke]([https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://husain.ml/](https://www.linkedin.com/in/muhammad-ilyas-ab0257225))
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 <!-- - 👯 &ensp;I’m looking to collaborate with other content creators -->
 <!-- - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years -->
 - ⚡ &ensp;Fun fact: I love reading & Learning New things.
-<!-- - 📫 &ensp;How to reach me: [**Instagram**][twitter] or [**Email**][email] -->
+<!-- - 📫 &ensp;How to reach me: [**Instagram**][Twitter] or [**Email**][email] -->
 
 ### Connect With Me
 
